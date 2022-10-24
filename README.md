@@ -7,12 +7,9 @@
 US Bikeshare project
 
 ### Description
-The project is about US bikeshare data and is about calculating statistics and build an interactive environment where a user chooses the data and filter for a a dataset to analyse.
+
 
 ### Files used
-chicago.csv
-new_york_city.csv
-washington.csv
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
