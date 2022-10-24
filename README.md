@@ -14,5 +14,7 @@ chicago.csv
 new_york_city.
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+ links that was consulted.
 
+1.https://pandas.pydata.org/pandas-docs/stable/reference/series.html#reindexing-selection-label-manipulation
+2.https://pandas.pydata.org/pandas-docs/stable/reference/series.html#indexing-iteration
